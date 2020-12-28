@@ -1,7 +1,7 @@
 {
   "name": "bonus-flex-box",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.html",
   "author": "Gabriel Bagalho <gabriel.bagalho@gmail.com>",
   "license": "MIT"
 }
